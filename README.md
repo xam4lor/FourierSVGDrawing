@@ -8,3 +8,6 @@ Then, simply export your drawing as an "svg" image called "path.svg" and copy th
 
 ## Run the script and watch
 Double-click on "run.bat" and watch the drawing beeing made...
+
+## This is an example of bambi (is it you?) drawn by the program
+![Sorry bambi](bambi.png?raw=true "Sorry bambi...")
