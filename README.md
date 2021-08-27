@@ -1,5 +1,6 @@
 # FourierSVGDrawing
 This code draws an animation of any illustrator svg file, using fourier transform.
+This project was made based on a [video from Daniel Shiffman](https://www.youtube.com/watch?v=MY4luNgGfms).
 
 ## Export the svg file
 Firstly, you need to open Illustrator and create a new file.
